@@ -1,0 +1,17 @@
+{
+  "name": "apipeliculas",
+  "version": "1.0.0",
+  "description": "api para añadir,consultar,editar y eliminar las peliculas disponibles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D. Pombo, J. Torres.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17"
+  }
+}
